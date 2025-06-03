@@ -2,7 +2,6 @@
 
 Specifiche e contesto:
 - ```tipologia```: product-template
-- ```ai```: Machine learning
 -  ```dominio```: PA
 
 Implementazione di funzione di similarità tra organizzazioni per facilitare processi decisionali sulle tassonomie di progetti Family in Italia e Family Audit. 
